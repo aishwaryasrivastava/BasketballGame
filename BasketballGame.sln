@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballGame", "BasketballGame\BasketballGame.csproj", "{BBF571A3-7188-43B4-A998-DC26A107128B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF571A3-7188-43B4-A998-DC26A107128B}.Debug|x86.ActiveCfg = Debug|x86
+		{BBF571A3-7188-43B4-A998-DC26A107128B}.Debug|x86.Build.0 = Debug|x86
+		{BBF571A3-7188-43B4-A998-DC26A107128B}.Release|x86.ActiveCfg = Release|x86
+		{BBF571A3-7188-43B4-A998-DC26A107128B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
